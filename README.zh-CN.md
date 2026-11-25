@@ -2,7 +2,7 @@
 
 面向素材工作流的 Mac 原生文件管理工具。文件夹封面、多标签、双栏、图片编辑与录屏，一个轻舟就够。
 
-[English](README.md) · [轻舟官网](https://binpaw.cn/) · [下载 Mac 版](https://binpaw.cn/downloads/qingzhou-files-0.10.15-apple-silicon-beta.dmg) · [安装指南](https://binpaw.cn/install.html)
+[English](README.md) · [轻舟官网](https://binpaw.cn/) · [下载 Mac 版](https://github.com/52binpaw-sys/QingzhouFiles/releases/download/v0.10.15/qingzhou-files-0.10.15-apple-silicon-beta.dmg) · [安装指南](https://binpaw.cn/install.html)
 
 ![轻舟文件界面展示图](assets/qingzhou-zh.png)
 
@@ -17,6 +17,8 @@
 - **按款批量出图**：选择图片，统一尺寸、JPG/PNG 格式和编号，导出到新文件夹；统一尺寸采用等比缩放、白色补边。
 - **内置录屏**：主屏或区域录制，支持暂停/继续，停止后合并保存一个 MP4。
 - **统一快捷键设置**：集中修改文件管理、修图、截图与录屏的快捷键。
+
+[GitHub 版本发布](https://github.com/52binpaw-sys/QingzhouFiles/releases) · [官网下载备用入口](https://binpaw.cn/#release)
 
 ## 下载安装
 

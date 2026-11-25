@@ -2,7 +2,7 @@
 
 A native Mac file manager for visual workflows: folder covers, tabs, dual panes, image editing and screen recording in one app.
 
-[中文介绍](README.zh-CN.md) · [Official website](https://binpaw.cn/en/) · [Download for Mac](https://binpaw.cn/downloads/qingzhou-files-0.10.15-apple-silicon-beta.dmg) · [Installation guide](https://binpaw.cn/en/install.html)
+[中文介绍](README.zh-CN.md) · [Official website](https://binpaw.cn/en/) · [Download for Mac](https://github.com/52binpaw-sys/QingzhouFiles/releases/download/v0.10.15/qingzhou-files-0.10.15-apple-silicon-beta.dmg) · [Installation guide](https://binpaw.cn/en/install.html)
 
 ![Qingzhou Files interface illustration](assets/qingzhou-en.png)
 
@@ -17,6 +17,8 @@ A native Mac file manager for visual workflows: folder covers, tabs, dual panes,
 - **Batch image export:** select images, set shared dimensions and JPG/PNG format, then export numbered filenames to a new folder. Uniform sizing uses proportional scaling and white padding.
 - **Screen recording:** main-display or selected-region recording, pause/resume and a combined MP4 export.
 - **Configurable shortcuts:** file management, image editing, screenshots and recording shortcuts in one settings page.
+
+[GitHub releases](https://github.com/52binpaw-sys/QingzhouFiles/releases) · [Website download mirror](https://binpaw.cn/#release)
 
 ## Download and install
 
